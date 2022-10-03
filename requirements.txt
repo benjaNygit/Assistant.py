@@ -1,0 +1,5 @@
+jeepney==0.8.0
+loguru==0.5.3
+notify-py==0.3.3
+PyAudio==0.2.12
+SpeechRecognition==3.8.1
